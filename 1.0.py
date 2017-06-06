@@ -12,7 +12,7 @@ face_cascade = cv2.CascadeClassifier(
     'I:/python/learning_code/pycharm_project/data/lbpcascade_frontalface.xml')
 
 
-###########################################
+############################################
 
 while True:
     # get a frame
